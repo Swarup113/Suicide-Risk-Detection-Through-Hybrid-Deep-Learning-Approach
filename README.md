@@ -128,9 +128,19 @@ The research evaluates multiple Deep Learning (DL) architectures alongside tradi
 
 ---
 
-## Disclaimer
-This project is intended strictly for research and academic purposes. It is not a substitute for professional mental health diagnosis, intervention, or clinical use.
+## Citation
 
+@article{Anika2024,
+title = {Analyzing Multiple Data Sources for Suicide Risk Detection: A Deep Learning Hybrid Approach},
+journal = {International Journal of Advanced Computer Science and Applications},
+doi = {10.14569/IJACSA.2024.0150270},
+url = {http://dx.doi.org/10.14569/IJACSA.2024.0150270},
+year = {2024},
+publisher = {The Science and Information Organization},
+volume = {15},
+number = {2},
+author = {Saraf Anika and Swarup Dewanjee and Sidratul Muntaha}
+}
 ---
 
 ## Keywords
